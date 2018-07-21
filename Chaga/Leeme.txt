@@ -1,0 +1,2 @@
+Cada avanse favor de registrarlo en git para su revision y posteriormente 
+adjuntarlo o modificarlo con el ya existente
